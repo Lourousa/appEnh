@@ -1,0 +1,22 @@
+{
+  "name": "appenh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "appEnh.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lourousa/appEnh.git"
+  },
+  "author": "jg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lourousa/appEnh/issues"
+  },
+  "homepage": "https://github.com/Lourousa/appEnh#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
